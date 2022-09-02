@@ -15,6 +15,7 @@ My tech stack 📚
 Certificate 🏆
 <div>
   <ul>
+    <li>정보처리기사</li>
     <li>SQLD</li>
     <li>ADsP</li>
     <li>컴퓨터활용능력 1급</li>
